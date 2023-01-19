@@ -1,4 +1,4 @@
 ## EGR 314
 
 # Spring 2023
-Jedriq, Sam, Nathan, Dylan
+Jedriq, Sam, Nathan Hoge, Dylan
